@@ -4006,7 +4006,7 @@ input, select, textarea {
 #banner {
 	background-image: url("../../images/ellielong.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100%;
 }
 #cta {
 	background-image: url("../../images/nice.jpg");
